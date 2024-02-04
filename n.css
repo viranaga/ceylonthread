@@ -1,0 +1,36 @@
+.contact{
+    background: black;
+    height: 480px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    padding: 30px 210px;
+}
+
+ .n1{
+    width: 18%;
+ }
+ .n2{
+    background: blue;
+    height: 130px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+ }
+ .n3{
+    background: blue;
+    height: 130px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+ }
+ .imglogo{
+    position: relative;
+    
+ }
+ .detail{
+    position: relative;
+    right: 40px;
+ }
